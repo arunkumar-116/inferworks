@@ -1,0 +1,23 @@
+Metadata:
+MeetingID: MTG-CT-93
+Date: 2025-09-20
+Author: Dr. Aisha Khan
+Location: Conference Room C
+Attendees: Dr. Khan, Dr. Mehta, Dr. Sinha, Coordinators, Lab Technicians
+
+Content:
+Agenda:
+1. Review recruitment for respiratory trial CT-RESP-11.
+2. Discuss patient-reported symptom logs.
+3. Schedule lab experiments for next week.
+4. Review documentation compliance.
+
+Minutes:
+- Recruitment: 35/50 patients enrolled. Coordinators tasked with outreach to two local clinics. Reminder emails sent.
+- Patient Logs: Reviewed symptom diaries. Patients P-20633 and P-20634 reported mild cough, no severe events.
+- Lab Experiments: Western Blot protocol scheduled for 09/21. RT-PCR scheduled for 09/22. Consumables checklist prepared.
+- Action Items:
+   1. Dr. Mehta to update database with new patient logs.
+   2. Lab technicians to ensure consumables and equipment ready.
+   3. Coordinators to confirm patient appointments.
+Additional Notes: Emphasized accurate logging and proper storage of patient samples. Next meeting scheduled 09/27.

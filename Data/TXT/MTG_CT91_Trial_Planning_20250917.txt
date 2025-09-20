@@ -1,0 +1,26 @@
+Metadata:
+MeetingID: MTG-CT-91
+Date: 2025-09-17
+Author: Dr. Aisha Khan
+Location: Conference Room B
+Attendees: Dr. Aisha Khan, Dr. Rahul Mehta, Dr. Meera Sinha, Trial Coordinators
+
+Content:
+Agenda:
+1. Review patient recruitment status for hypertension trial CT-BP-21.
+2. Discuss recent adverse events.
+3. Plan next week's lab schedule for DNA extraction.
+
+Minutes:
+- Recruitment Update: 32/50 patients enrolled. Additional outreach needed at two local clinics. Recruitment coordinator tasked with follow-up calls.
+- Adverse Event Discussion: Patient P-10245 experienced transient hypotension post-medication. No hospitalization needed. Recommend morning dose adjustment to 2.5mg Lisinopril.
+- Lab Schedule: DNA extraction for 10 patient samples scheduled for 2025-09-20. Ensure all consumables (lysis buffer, ethanol, spin columns) prepared by 2025-09-19.
+- Action Items:
+   1. Dr. Mehta to update trial database with adverse event.
+   2. Coordinators to send reminder emails to prospective patients.
+   3. Dr. Sinha to supervise morning vitals assessment.
+- Observations: Team emphasized adherence to protocol to minimize variability. Next meeting scheduled 2025-09-24 at 10:00 AM.
+
+Additional Notes:
+- Discussed potential addition of cognitive assessment for patients with high blood pressure. Protocol draft to be prepared by Dr. Khan.  
+- Reminder: All documentation must be filed in trial folder and logged in electronic database by end of day.

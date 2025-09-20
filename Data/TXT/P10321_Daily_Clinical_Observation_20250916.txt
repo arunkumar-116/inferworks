@@ -1,0 +1,18 @@
+Metadata:
+PatientID: P-10321
+TrialID: CT-DIAB-12
+Author: Dr. Anil Kapoor
+Date: 2025-09-16
+Location: Ward 3, City Hospital
+ObservationType: Daily Clinical Note
+
+Content:
+06:45 AM - Patient awakened, reports mild tingling in fingers and toes. Blood glucose self-measured at 162 mg/dL pre-breakfast. BP: 128/80 mmHg, HR: 78 bpm.
+07:30 AM - Administered morning insulin dose: 8 units. Patient instructed to remain seated 15 minutes post-administration.
+08:00 AM - Breakfast: low-carb porridge, scrambled egg. Patient tolerated meal well; mild nausea 1/10 reported.
+09:30 AM - Physical therapy session: patient walked 10 minutes indoors, monitored for dizziness. BP post-session: 125/78 mmHg.
+12:00 PM - Lunch: grilled fish, steamed broccoli. Vitals: BP 122/80, HR 76, Temp 98.4°F. No hypoglycemic symptoms observed.
+03:00 PM - Afternoon glucose check: 148 mg/dL. Patient rested in semi-recumbent position. Mild fatigue reported.
+05:00 PM - Cognitive task assessment: patient completed memory test, scored 29/30, slight improvement from prior session.
+07:00 PM - Dinner: quinoa salad with vegetables. Monitored for nausea, none observed. Patient advised to sleep by 10:00 PM.
+Notes: Patient has Type 2 diabetes with mild neuropathy. Blood glucose gradually stabilizing under current regimen. Continue daily observation and carbohydrate monitoring.

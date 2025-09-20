@@ -1,0 +1,20 @@
+Metadata:
+ExperimentID: EXP-2025-92
+Author: Dr. Priya Desai
+Date: 2025-09-20
+Lab: Molecular Biology Unit
+ProtocolType: Western Blot for Protein Detection
+
+Content:
+Objective: Detect protein expression levels in patient samples.
+
+Step 1: Prepare protein lysates from cell or tissue samples. Quantify protein concentration using Bradford assay.
+Step 2: Mix 20µg of protein with loading buffer. Heat at 95°C for 5 minutes.
+Step 3: Load samples onto SDS-PAGE gel. Run electrophoresis at 120V until dye front reaches bottom.
+Step 4: Transfer proteins to PVDF membrane using semi-dry transfer apparatus.
+Step 5: Block membrane with 5% BSA in TBST for 1 hour at room temperature.
+Step 6: Incubate with primary antibody specific to target protein overnight at 4°C.
+Step 7: Wash membrane 3 times with TBST, 5 minutes each.
+Step 8: Incubate with HRP-conjugated secondary antibody for 1 hour at room temperature.
+Step 9: Wash membrane 3 times with TBST. Detect protein bands using ECL reagent and image on chemiluminescence system.
+Notes: Maintain cold chain for samples. Avoid repeated freeze-thaw cycles. Record all observations in lab notebook.

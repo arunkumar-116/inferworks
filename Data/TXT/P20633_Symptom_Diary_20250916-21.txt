@@ -1,0 +1,16 @@
+Metadata:
+PatientID: P-20633
+Author: Patient (Self-Reported)
+DateRange: 2025-09-16 to 2025-09-21
+TrialID: CT-RESP-11
+Location: Home
+ContentType: Symptom Diary
+
+Content:
+2025-09-16: Mild cough in morning, 2/10. No fever. Took warm fluids. Slept 7 hours.
+2025-09-17: Cough persists, mild chest tightness reported, 3/10. No shortness of breath. Monitored temperature: 98.6°F.
+2025-09-18: Cough 4/10, slight sore throat. Took over-the-counter throat lozenge. Hydration: 2L water.
+2025-09-19: Morning cough 3/10. Evening mild fatigue. Temperature 98.7°F. No medications needed.
+2025-09-20: Cough decreased to 1/10. Able to walk 15 minutes without chest tightness.
+2025-09-21: No cough. Normal activity resumed. Sleep quality: 8 hours. Vitals: BP 118/76, HR 80 bpm.
+Notes: Patient logs symptoms consistently. No adverse events. Continue monitoring.

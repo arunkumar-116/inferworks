@@ -1,0 +1,21 @@
+Metadata:
+ExperimentID: EXP-2025-77
+Author: Dr. Rahul Mehta
+Date: 2025-09-19
+Lab: Molecular Biology Unit
+ProtocolType: DNA Extraction from Blood Samples
+
+Content:
+Objective: Extract high-purity genomic DNA from whole blood for downstream sequencing analysis.
+
+Step 1: Pre-label 15ml centrifuge tubes with patient ID, sample number, and experiment date. Prepare 2ml microcentrifuge tubes for elution.
+Step 2: Pipette 5ml of whole blood into pre-labeled 15ml tubes. Mix gently by inversion, avoid hemolysis.
+Step 3: Add 10ml RBC lysis buffer, invert gently 10 times. Incubate at room temperature for 10 minutes. Observe for complete lysis of red blood cells; solution should appear translucent.
+Step 4: Centrifuge at 3000 rpm for 10 minutes at 4°C. Carefully discard supernatant without disturbing pellet.
+Step 5: Wash pellet twice with 10ml PBS. Centrifuge at 3000 rpm for 5 minutes each. Ensure pellet integrity is maintained.
+Step 6: Add 1ml lysis buffer + 20µl Proteinase K. Incubate at 56°C for 30 minutes in a shaking incubator.
+Step 7: Add 500µl 100% ethanol, transfer lysate to spin columns. Centrifuge at 8000 rpm for 1 minute. Repeat for all samples.
+Step 8: Wash columns twice with wash buffer. Ensure no ethanol contamination remains in final spin.
+Step 9: Elute DNA in 100µl TE buffer. Measure concentration with Nanodrop, record A260/A280 ratio, expected range 1.8–2.0.
+Step 10: Store DNA at -20°C. Log sample IDs, concentration, and storage location in lab notebook.
+Notes: Maintain sterile conditions. Double-check labeling to prevent cross-contamination. Record any deviations from protocol.

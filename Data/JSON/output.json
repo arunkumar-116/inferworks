@@ -1,0 +1,1004 @@
+{
+    "documents": [
+        {
+            "doc_id": "D00001",
+            "patient_id": "P10203",
+            "title": "Back pain clinic note",
+            "created_at": "2025-08-03",
+            "department": "Internal Medicine",
+            "provider": "Dr. J. Kim",
+            "age": 39,
+            "gender": "Female",
+            "tags": [
+                "back pain",
+                "lumbar strain"
+            ],
+            "summary": "39-year-old Female presenting with back pain, impression: Lumbar strain.",
+            "content": "Title: Back pain - Visit note\nVisitDate: 2025-08-03\n\nHPI:\n39-year-old Female presented with back pain for 9 day(s). Symptoms described as severe in intensity, worse with bending and lifting. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 38.8 C; HR: 89 bpm; RR: 21 /min; BP: 127/70 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 5; Hemoglobin_g/dL: 15.7; Platelets_10^3/uL: 206; Na_mEq/L: 140.2; K_mEq/L: 3.7; Creatinine_mg/dL: 1.15; Glucose_mg/dL: 115\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Lumbar strain.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00002",
+            "patient_id": "P99097",
+            "title": "Shortness of breath clinic note",
+            "created_at": "2025-05-22",
+            "department": "Pulmonology",
+            "provider": "Dr. J. Kim",
+            "age": 4,
+            "gender": "Female",
+            "tags": [
+                "shortness of breath",
+                "pulmonary embolism"
+            ],
+            "summary": "4-year-old Female presenting with shortness of breath, impression: Pulmonary embolism.",
+            "content": "Title: Shortness of breath - Visit note\nVisitDate: 2025-05-22\n\nHPI:\n4-year-old Female presented with shortness of breath for 12 day(s). Symptoms described as mild in intensity, worse on exertion, orthopnea at night. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 37.0 C; HR: 135 bpm; RR: 29 /min; BP: 147/86 mmHg; SpO2: 91%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 8; Hemoglobin_g/dL: 10.6; Platelets_10^3/uL: 246; Na_mEq/L: 135.2; K_mEq/L: 4.5; Creatinine_mg/dL: 0.78; Glucose_mg/dL: 118\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Pulmonary embolism.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00003",
+            "patient_id": "P63017",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2025-08-09",
+            "department": "Pulmonology",
+            "provider": "Dr. N. Banerjee",
+            "age": 76,
+            "gender": "Female",
+            "tags": [
+                "abdominal pain",
+                "cholecystitis"
+            ],
+            "summary": "76-year-old Female presenting with abdominal pain, impression: Cholecystitis.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2025-08-09\n\nHPI:\n76-year-old Female presented with abdominal pain for 12 day(s). Symptoms described as mild in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 37.6 C; HR: 71 bpm; RR: 12 /min; BP: 110/79 mmHg; SpO2: 92%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 6; Hemoglobin_g/dL: 16.3; Platelets_10^3/uL: 229; Na_mEq/L: 139.9; K_mEq/L: 3.7; Creatinine_mg/dL: 0.92; Glucose_mg/dL: 76; Urinalysis: no significant findings\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Cholecystitis.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00004",
+            "patient_id": "P08667",
+            "title": "Chest pain clinic note",
+            "created_at": "2025-07-04",
+            "department": "Urgent Care",
+            "provider": "Dr. J. Kim",
+            "age": 81,
+            "gender": "Female",
+            "tags": [
+                "chest pain",
+                "acute coronary syndrome"
+            ],
+            "summary": "81-year-old Female presenting with chest pain, impression: Acute Coronary Syndrome.",
+            "content": "Title: Chest pain - Visit note\nVisitDate: 2025-07-04\n\nHPI:\n81-year-old Female presented with chest pain for 2 day(s). Symptoms described as mild in intensity, radiation to left arm and shortness of breath. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies prior similar episodes; no syncope.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNitroglycerin\n\nAllergies:\nNone\n\nVitals:\nTemperature: 37.0 C; HR: 108 bpm; RR: 26 /min; BP: 135/72 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 15; Hemoglobin_g/dL: 10.8; Platelets_10^3/uL: 178; Na_mEq/L: 134.9; K_mEq/L: 3.7; Creatinine_mg/dL: 1.57; Glucose_mg/dL: 99; Troponin_ng/mL: 0.407\n\nImaging:\nChest X-ray obtained: patchy airspace consolidation in the right lower lobe.\n\nAssessment and Plan:\nPrimary impression: Acute Coronary Syndrome.\nStart medication: Nitroglycerin. Order labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00005",
+            "patient_id": "P30572",
+            "title": "Back pain clinic note",
+            "created_at": "2025-04-05",
+            "department": "Primary Care",
+            "provider": "Dr. Meera Patel",
+            "age": 32,
+            "gender": "Male",
+            "tags": [
+                "back pain",
+                "herniated disc"
+            ],
+            "summary": "32-year-old Male presenting with back pain, impression: Herniated disc.",
+            "content": "Title: Back pain - Visit note\nVisitDate: 2025-04-05\n\nHPI:\n32-year-old Male presented with back pain for 11 day(s). Symptoms described as mild in intensity, worse with bending and lifting. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 36.1 C; HR: 97 bpm; RR: 14 /min; BP: 125/71 mmHg; SpO2: 94%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 13; Hemoglobin_g/dL: 14.4; Platelets_10^3/uL: 272; Na_mEq/L: 143.8; K_mEq/L: 4.9; Creatinine_mg/dL: 1.11; Glucose_mg/dL: 123\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Herniated disc.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00006",
+            "patient_id": "P96630",
+            "title": "Fatigue clinic note",
+            "created_at": "2024-09-21",
+            "department": "Urgent Care",
+            "provider": "Dr. A. Rao",
+            "age": 17,
+            "gender": "Other",
+            "tags": [
+                "fatigue",
+                "depression"
+            ],
+            "summary": "17-year-old Other presenting with fatigue, impression: Depression.",
+            "content": "Title: Fatigue - Visit note\nVisitDate: 2024-09-21\n\nHPI:\n17-year-old Other presented with fatigue for 6 day(s). Symptoms described as moderate in intensity, worse over weeks, interfering with daily activities. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nSertraline\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 37.5 C; HR: 62 bpm; RR: 16 /min; BP: 149/87 mmHg; SpO2: 92%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 9; Hemoglobin_g/dL: 15.2; Platelets_10^3/uL: 277; Na_mEq/L: 140.3; K_mEq/L: 4.4; Creatinine_mg/dL: 0.67; Glucose_mg/dL: 117\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Depression.\nStart medication: Sertraline. Order labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00007",
+            "patient_id": "P21041",
+            "title": "Dizziness clinic note",
+            "created_at": "2025-04-18",
+            "department": "Emergency",
+            "provider": "Dr. A. Verma",
+            "age": 34,
+            "gender": "Female",
+            "tags": [
+                "dizziness",
+                "benign positional vertigo"
+            ],
+            "summary": "34-year-old Female presenting with dizziness, impression: Benign positional vertigo.",
+            "content": "Title: Dizziness - Visit note\nVisitDate: 2025-04-18\n\nHPI:\n34-year-old Female presented with dizziness for 9 day(s). Symptoms described as moderate in intensity, worse on standing, brief loss of balance. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nNone\n\nVitals:\nTemperature: 36.1 C; HR: 99 bpm; RR: 14 /min; BP: 100/65 mmHg; SpO2: 92%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 5; Hemoglobin_g/dL: 13.9; Platelets_10^3/uL: 188; Na_mEq/L: 143.5; K_mEq/L: 4.2; Creatinine_mg/dL: 0.87; Glucose_mg/dL: 96\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Benign positional vertigo.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00008",
+            "patient_id": "P53758",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2025-03-19",
+            "department": "Pulmonology",
+            "provider": "Dr. S. Iyer",
+            "age": 30,
+            "gender": "Female",
+            "tags": [
+                "abdominal pain",
+                "cholecystitis"
+            ],
+            "summary": "30-year-old Female presenting with abdominal pain, impression: Cholecystitis.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2025-03-19\n\nHPI:\n30-year-old Female presented with abdominal pain for 0 day(s). Symptoms described as mild in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 37.3 C; HR: 56 bpm; RR: 14 /min; BP: 107/92 mmHg; SpO2: 92%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 9; Hemoglobin_g/dL: 12.5; Platelets_10^3/uL: 361; Na_mEq/L: 134.4; K_mEq/L: 3.6; Creatinine_mg/dL: 0.75; Glucose_mg/dL: 96; Urinalysis: trace blood\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Cholecystitis.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00009",
+            "patient_id": "P12637",
+            "title": "Chest pain clinic note",
+            "created_at": "2025-04-11",
+            "department": "Pulmonology",
+            "provider": "Dr. N. Banerjee",
+            "age": 76,
+            "gender": "Other",
+            "tags": [
+                "chest pain",
+                "stable angina"
+            ],
+            "summary": "76-year-old Other presenting with chest pain, impression: Stable Angina.",
+            "content": "Title: Chest pain - Visit note\nVisitDate: 2025-04-11\n\nHPI:\n76-year-old Other presented with chest pain for 6 day(s). Symptoms described as severe in intensity, radiation to left arm and shortness of breath. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies prior similar episodes; no syncope.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 37.0 C; HR: 75 bpm; RR: 19 /min; BP: 126/88 mmHg; SpO2: 92%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 4; Hemoglobin_g/dL: 15.6; Platelets_10^3/uL: 230; Na_mEq/L: 141.4; K_mEq/L: 4.3; Creatinine_mg/dL: 1.19; Glucose_mg/dL: 110; Troponin_ng/mL: 0.114\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Stable Angina.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00010",
+            "patient_id": "P99488",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2025-01-20",
+            "department": "Emergency",
+            "provider": "Dr. S. Iyer",
+            "age": 7,
+            "gender": "Female",
+            "tags": [
+                "abdominal pain",
+                "appendicitis"
+            ],
+            "summary": "7-year-old Female presenting with abdominal pain, impression: Appendicitis.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2025-01-20\n\nHPI:\n7-year-old Female presented with abdominal pain for 9 day(s). Symptoms described as severe in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nSulfa\n\nVitals:\nTemperature: 38.5 C; HR: 67 bpm; RR: 19 /min; BP: 131/90 mmHg; SpO2: 92%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 10; Hemoglobin_g/dL: 11.4; Platelets_10^3/uL: 196; Na_mEq/L: 137.6; K_mEq/L: 4.7; Creatinine_mg/dL: 0.98; Glucose_mg/dL: 139; Urinalysis: trace blood\n\nImaging:\nAbdominal ultrasound: gallbladder wall thickening and small stones noted.\n\nAssessment and Plan:\nPrimary impression: Appendicitis.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00011",
+            "patient_id": "P61022",
+            "title": "Fever clinic note",
+            "created_at": "2024-12-30",
+            "department": "Emergency",
+            "provider": "Dr. J. Kim",
+            "age": 9,
+            "gender": "Other",
+            "tags": [
+                "fever",
+                "viral infection"
+            ],
+            "summary": "9-year-old Other presenting with fever, impression: Viral infection.",
+            "content": "Title: Fever - Visit note\nVisitDate: 2024-12-30\n\nHPI:\n9-year-old Other presented with fever for 3 day(s). Symptoms described as moderate in intensity, associated chills and body aches. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 40.0 C; HR: 67 bpm; RR: 16 /min; BP: 136/75 mmHg; SpO2: 95%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 7; Hemoglobin_g/dL: 13.2; Platelets_10^3/uL: 327; Na_mEq/L: 141.6; K_mEq/L: 4.5; Creatinine_mg/dL: 1.16; Glucose_mg/dL: 153; CRP_mg/L: 131; Urinalysis: nitrite positive, leukocyte esterase positive\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Viral infection.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00012",
+            "patient_id": "P32825",
+            "title": "Shortness of breath clinic note",
+            "created_at": "2025-01-16",
+            "department": "Internal Medicine",
+            "provider": "Dr. A. Verma",
+            "age": 57,
+            "gender": "Female",
+            "tags": [
+                "shortness of breath",
+                "copd exacerbation"
+            ],
+            "summary": "57-year-old Female presenting with shortness of breath, impression: COPD exacerbation.",
+            "content": "Title: Shortness of breath - Visit note\nVisitDate: 2025-01-16\n\nHPI:\n57-year-old Female presented with shortness of breath for 12 day(s). Symptoms described as severe in intensity, worse on exertion, orthopnea at night. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 37.3 C; HR: 70 bpm; RR: 14 /min; BP: 113/84 mmHg; SpO2: 96%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 14; Hemoglobin_g/dL: 15.1; Platelets_10^3/uL: 185; Na_mEq/L: 140.9; K_mEq/L: 4.2; Creatinine_mg/dL: 1.32; Glucose_mg/dL: 73\n\nImaging:\nChest X-ray obtained: cardiomegaly with mild pulmonary vascular congestion.\n\nAssessment and Plan:\nPrimary impression: COPD exacerbation.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00013",
+            "patient_id": "P20797",
+            "title": "Cough clinic note",
+            "created_at": "2025-02-25",
+            "department": "Urgent Care",
+            "provider": "Dr. L. Fernandez",
+            "age": 33,
+            "gender": "Other",
+            "tags": [
+                "cough",
+                "pneumonia"
+            ],
+            "summary": "33-year-old Other presenting with cough, impression: Pneumonia.",
+            "content": "Title: Cough - Visit note\nVisitDate: 2025-02-25\n\nHPI:\n33-year-old Other presented with cough for 8 day(s). Symptoms described as moderate in intensity, productive cough with yellow sputum and occasional wheeze. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 36.0 C; HR: 74 bpm; RR: 21 /min; BP: 137/68 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 7; Hemoglobin_g/dL: 10.8; Platelets_10^3/uL: 296; Na_mEq/L: 140.9; K_mEq/L: 4.2; Creatinine_mg/dL: 0.63; Glucose_mg/dL: 124; CRP_mg/L: 150\n\nImaging:\nChest X-ray obtained: cardiomegaly with mild pulmonary vascular congestion.\n\nAssessment and Plan:\nPrimary impression: Pneumonia.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00014",
+            "patient_id": "P32150",
+            "title": "Chest pain clinic note",
+            "created_at": "2025-06-29",
+            "department": "Pulmonology",
+            "provider": "Dr. R. Gupta",
+            "age": 16,
+            "gender": "Female",
+            "tags": [
+                "chest pain",
+                "acute coronary syndrome"
+            ],
+            "summary": "16-year-old Female presenting with chest pain, impression: Acute Coronary Syndrome.",
+            "content": "Title: Chest pain - Visit note\nVisitDate: 2025-06-29\n\nHPI:\n16-year-old Female presented with chest pain for 2 day(s). Symptoms described as moderate in intensity, radiation to left arm and shortness of breath. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies prior similar episodes; no syncope.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 38.0 C; HR: 107 bpm; RR: 23 /min; BP: 125/90 mmHg; SpO2: 93%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 15; Hemoglobin_g/dL: 14.2; Platelets_10^3/uL: 329; Na_mEq/L: 138.7; K_mEq/L: 5.0; Creatinine_mg/dL: 0.61; Glucose_mg/dL: 128; Troponin_ng/mL: 0.036\n\nImaging:\nChest X-ray obtained: patchy airspace consolidation in the right lower lobe.\n\nAssessment and Plan:\nPrimary impression: Acute Coronary Syndrome.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00015",
+            "patient_id": "P19654",
+            "title": "Dizziness clinic note",
+            "created_at": "2025-01-20",
+            "department": "Internal Medicine",
+            "provider": "Dr. K. Sharma",
+            "age": 45,
+            "gender": "Other",
+            "tags": [
+                "dizziness",
+                "benign positional vertigo"
+            ],
+            "summary": "45-year-old Other presenting with dizziness, impression: Benign positional vertigo.",
+            "content": "Title: Dizziness - Visit note\nVisitDate: 2025-01-20\n\nHPI:\n45-year-old Other presented with dizziness for 7 day(s). Symptoms described as moderate in intensity, worse on standing, brief loss of balance. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 37.2 C; HR: 72 bpm; RR: 21 /min; BP: 149/83 mmHg; SpO2: 96%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 12; Hemoglobin_g/dL: 10.9; Platelets_10^3/uL: 255; Na_mEq/L: 141.6; K_mEq/L: 4.1; Creatinine_mg/dL: 0.97; Glucose_mg/dL: 122\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Benign positional vertigo.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00016",
+            "patient_id": "P30892",
+            "title": "Rash clinic note",
+            "created_at": "2025-04-13",
+            "department": "Primary Care",
+            "provider": "Dr. A. Verma",
+            "age": 88,
+            "gender": "Male",
+            "tags": [
+                "rash",
+                "contact dermatitis"
+            ],
+            "summary": "88-year-old Male presenting with rash, impression: Contact dermatitis.",
+            "content": "Title: Rash - Visit note\nVisitDate: 2025-04-13\n\nHPI:\n88-year-old Male presented with rash for 9 day(s). Symptoms described as mild in intensity, pruritic rash started on arms then spread to trunk. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nNone\n\nVitals:\nTemperature: 38.3 C; HR: 71 bpm; RR: 17 /min; BP: 104/72 mmHg; SpO2: 95%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 4; Hemoglobin_g/dL: 10.6; Platelets_10^3/uL: 206; Na_mEq/L: 140.5; K_mEq/L: 4.4; Creatinine_mg/dL: 1.22; Glucose_mg/dL: 148\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Contact dermatitis.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00017",
+            "patient_id": "P20239",
+            "title": "Cough clinic note",
+            "created_at": "2025-05-22",
+            "department": "Pulmonology",
+            "provider": "Dr. A. Rao",
+            "age": 88,
+            "gender": "Female",
+            "tags": [
+                "cough",
+                "pneumonia"
+            ],
+            "summary": "88-year-old Female presenting with cough, impression: Pneumonia.",
+            "content": "Title: Cough - Visit note\nVisitDate: 2025-05-22\n\nHPI:\n88-year-old Female presented with cough for 0 day(s). Symptoms described as mild in intensity, productive cough with yellow sputum and occasional wheeze. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 38.0 C; HR: 119 bpm; RR: 14 /min; BP: 109/93 mmHg; SpO2: 95%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 15; Hemoglobin_g/dL: 11.7; Platelets_10^3/uL: 358; Na_mEq/L: 136.8; K_mEq/L: 4.0; Creatinine_mg/dL: 0.68; Glucose_mg/dL: 159\n\nImaging:\nChest X-ray obtained: no acute cardiopulmonary disease.\n\nAssessment and Plan:\nPrimary impression: Pneumonia.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00018",
+            "patient_id": "P19232",
+            "title": "Rash clinic note",
+            "created_at": "2025-06-27",
+            "department": "Primary Care",
+            "provider": "Dr. R. Gupta",
+            "age": 63,
+            "gender": "Male",
+            "tags": [
+                "rash",
+                "eczema"
+            ],
+            "summary": "63-year-old Male presenting with rash, impression: Eczema.",
+            "content": "Title: Rash - Visit note\nVisitDate: 2025-06-27\n\nHPI:\n63-year-old Male presented with rash for 2 day(s). Symptoms described as severe in intensity, pruritic rash started on arms then spread to trunk. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nSulfa\n\nVitals:\nTemperature: 37.1 C; HR: 64 bpm; RR: 23 /min; BP: 109/61 mmHg; SpO2: 93%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 9; Hemoglobin_g/dL: 10.9; Platelets_10^3/uL: 232; Na_mEq/L: 137.8; K_mEq/L: 3.7; Creatinine_mg/dL: 0.8; Glucose_mg/dL: 112; CRP_mg/L: 86\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Eczema.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00019",
+            "patient_id": "P15869",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2025-06-16",
+            "department": "Urgent Care",
+            "provider": "Dr. Meera Patel",
+            "age": 72,
+            "gender": "Other",
+            "tags": [
+                "abdominal pain",
+                "gastroenteritis"
+            ],
+            "summary": "72-year-old Other presenting with abdominal pain, impression: Gastroenteritis.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2025-06-16\n\nHPI:\n72-year-old Other presented with abdominal pain for 1 day(s). Symptoms described as mild in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nSulfa\n\nVitals:\nTemperature: 37.8 C; HR: 87 bpm; RR: 16 /min; BP: 144/60 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 15; Hemoglobin_g/dL: 12.6; Platelets_10^3/uL: 191; Na_mEq/L: 138.1; K_mEq/L: 4.8; Creatinine_mg/dL: 0.71; Glucose_mg/dL: 139; Urinalysis: trace blood\n\nImaging:\nAbdominal ultrasound: gallbladder wall thickening and small stones noted.\n\nAssessment and Plan:\nPrimary impression: Gastroenteritis.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00020",
+            "patient_id": "P56791",
+            "title": "Headache clinic note",
+            "created_at": "2024-11-21",
+            "department": "Urgent Care",
+            "provider": "Dr. R. Gupta",
+            "age": 17,
+            "gender": "Other",
+            "tags": [
+                "headache",
+                "cluster headache"
+            ],
+            "summary": "17-year-old Other presenting with headache, impression: Cluster headache.",
+            "content": "Title: Headache - Visit note\nVisitDate: 2024-11-21\n\nHPI:\n17-year-old Other presented with headache for 4 day(s). Symptoms described as mild in intensity, photophobia and nausea. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 37.6 C; HR: 77 bpm; RR: 22 /min; BP: 106/87 mmHg; SpO2: 94%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 8; Hemoglobin_g/dL: 11.6; Platelets_10^3/uL: 170; Na_mEq/L: 141.4; K_mEq/L: 4.5; Creatinine_mg/dL: 1.16; Glucose_mg/dL: 171\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Cluster headache.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00021",
+            "patient_id": "P34268",
+            "title": "Back pain clinic note",
+            "created_at": "2024-12-09",
+            "department": "Emergency",
+            "provider": "Dr. K. Sharma",
+            "age": 14,
+            "gender": "Female",
+            "tags": [
+                "back pain",
+                "kidney stone (referred)"
+            ],
+            "summary": "14-year-old Female presenting with back pain, impression: Kidney stone (referred).",
+            "content": "Title: Back pain - Visit note\nVisitDate: 2024-12-09\n\nHPI:\n14-year-old Female presented with back pain for 10 day(s). Symptoms described as mild in intensity, worse with bending and lifting. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 37.4 C; HR: 60 bpm; RR: 17 /min; BP: 111/92 mmHg; SpO2: 95%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 7; Hemoglobin_g/dL: 15.9; Platelets_10^3/uL: 159; Na_mEq/L: 143.9; K_mEq/L: 5.0; Creatinine_mg/dL: 1.18; Glucose_mg/dL: 180\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Kidney stone (referred).\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00022",
+            "patient_id": "P46816",
+            "title": "Rash clinic note",
+            "created_at": "2024-10-16",
+            "department": "Internal Medicine",
+            "provider": "Dr. S. Iyer",
+            "age": 2,
+            "gender": "Female",
+            "tags": [
+                "rash",
+                "drug eruption"
+            ],
+            "summary": "2-year-old Female presenting with rash, impression: Drug eruption.",
+            "content": "Title: Rash - Visit note\nVisitDate: 2024-10-16\n\nHPI:\n2-year-old Female presented with rash for 6 day(s). Symptoms described as mild in intensity, pruritic rash started on arms then spread to trunk. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nSulfa\n\nVitals:\nTemperature: 37.8 C; HR: 83 bpm; RR: 17 /min; BP: 140/65 mmHg; SpO2: 92%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 4; Hemoglobin_g/dL: 14.2; Platelets_10^3/uL: 165; Na_mEq/L: 137.4; K_mEq/L: 5.0; Creatinine_mg/dL: 0.67; Glucose_mg/dL: 89; CRP_mg/L: 122\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Drug eruption.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00023",
+            "patient_id": "P30610",
+            "title": "Back pain clinic note",
+            "created_at": "2025-01-08",
+            "department": "Emergency",
+            "provider": "Dr. S. Iyer",
+            "age": 60,
+            "gender": "Female",
+            "tags": [
+                "back pain",
+                "lumbar strain"
+            ],
+            "summary": "60-year-old Female presenting with back pain, impression: Lumbar strain.",
+            "content": "Title: Back pain - Visit note\nVisitDate: 2025-01-08\n\nHPI:\n60-year-old Female presented with back pain for 6 day(s). Symptoms described as mild in intensity, worse with bending and lifting. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 36.4 C; HR: 116 bpm; RR: 26 /min; BP: 123/67 mmHg; SpO2: 96%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 5; Hemoglobin_g/dL: 13.4; Platelets_10^3/uL: 146; Na_mEq/L: 135.1; K_mEq/L: 4.0; Creatinine_mg/dL: 0.92; Glucose_mg/dL: 141\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Lumbar strain.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00024",
+            "patient_id": "P11207",
+            "title": "Fever clinic note",
+            "created_at": "2025-01-25",
+            "department": "Internal Medicine",
+            "provider": "Dr. J. Kim",
+            "age": 85,
+            "gender": "Male",
+            "tags": [
+                "fever",
+                "covid-19"
+            ],
+            "summary": "85-year-old Male presenting with fever, impression: COVID-19.",
+            "content": "Title: Fever - Visit note\nVisitDate: 2025-01-25\n\nHPI:\n85-year-old Male presented with fever for 12 day(s). Symptoms described as severe in intensity, associated chills and body aches. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nNone\n\nVitals:\nTemperature: 38.8 C; HR: 112 bpm; RR: 18 /min; BP: 132/81 mmHg; SpO2: 98%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 10; Hemoglobin_g/dL: 10.4; Platelets_10^3/uL: 307; Na_mEq/L: 141.8; K_mEq/L: 4.9; Creatinine_mg/dL: 1.51; Glucose_mg/dL: 116; CRP_mg/L: 80\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: COVID-19.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00025",
+            "patient_id": "P69677",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2024-11-30",
+            "department": "Primary Care",
+            "provider": "Dr. J. Kim",
+            "age": 73,
+            "gender": "Female",
+            "tags": [
+                "abdominal pain",
+                "peptic ulcer disease"
+            ],
+            "summary": "73-year-old Female presenting with abdominal pain, impression: Peptic ulcer disease.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2024-11-30\n\nHPI:\n73-year-old Female presented with abdominal pain for 8 day(s). Symptoms described as moderate in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 36.1 C; HR: 95 bpm; RR: 25 /min; BP: 126/80 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 10; Hemoglobin_g/dL: 13.6; Platelets_10^3/uL: 265; Na_mEq/L: 136.9; K_mEq/L: 3.9; Creatinine_mg/dL: 0.68; Glucose_mg/dL: 170; Urinalysis: no significant findings\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Peptic ulcer disease.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00026",
+            "patient_id": "P82262",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2025-07-31",
+            "department": "Emergency",
+            "provider": "Dr. A. Rao",
+            "age": 10,
+            "gender": "Male",
+            "tags": [
+                "abdominal pain",
+                "cholecystitis"
+            ],
+            "summary": "10-year-old Male presenting with abdominal pain, impression: Cholecystitis.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2025-07-31\n\nHPI:\n10-year-old Male presented with abdominal pain for 13 day(s). Symptoms described as mild in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 37.4 C; HR: 110 bpm; RR: 19 /min; BP: 150/88 mmHg; SpO2: 95%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 10; Hemoglobin_g/dL: 11.5; Platelets_10^3/uL: 335; Na_mEq/L: 136.7; K_mEq/L: 4.0; Creatinine_mg/dL: 0.92; Glucose_mg/dL: 174; Urinalysis: trace blood\n\nImaging:\nAbdominal ultrasound: gallbladder wall thickening and small stones noted.\n\nAssessment and Plan:\nPrimary impression: Cholecystitis.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00027",
+            "patient_id": "P80508",
+            "title": "Fever clinic note",
+            "created_at": "2025-02-03",
+            "department": "Internal Medicine",
+            "provider": "Dr. S. Iyer",
+            "age": 38,
+            "gender": "Other",
+            "tags": [
+                "fever",
+                "viral infection"
+            ],
+            "summary": "38-year-old Other presenting with fever, impression: Viral infection.",
+            "content": "Title: Fever - Visit note\nVisitDate: 2025-02-03\n\nHPI:\n38-year-old Other presented with fever for 2 day(s). Symptoms described as mild in intensity, associated chills and body aches. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 38.6 C; HR: 119 bpm; RR: 22 /min; BP: 111/72 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 9; Hemoglobin_g/dL: 12.7; Platelets_10^3/uL: 202; Na_mEq/L: 142.7; K_mEq/L: 4.9; Creatinine_mg/dL: 1.48; Glucose_mg/dL: 70; CRP_mg/L: 61\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Viral infection.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00028",
+            "patient_id": "P16295",
+            "title": "Shortness of breath clinic note",
+            "created_at": "2025-02-12",
+            "department": "Primary Care",
+            "provider": "Dr. K. Sharma",
+            "age": 13,
+            "gender": "Male",
+            "tags": [
+                "shortness of breath",
+                "congestive heart failure"
+            ],
+            "summary": "13-year-old Male presenting with shortness of breath, impression: Congestive heart failure.",
+            "content": "Title: Shortness of breath - Visit note\nVisitDate: 2025-02-12\n\nHPI:\n13-year-old Male presented with shortness of breath for 2 day(s). Symptoms described as severe in intensity, worse on exertion, orthopnea at night. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nNone\n\nVitals:\nTemperature: 36.4 C; HR: 70 bpm; RR: 24 /min; BP: 145/67 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 13; Hemoglobin_g/dL: 16.3; Platelets_10^3/uL: 225; Na_mEq/L: 142.5; K_mEq/L: 4.2; Creatinine_mg/dL: 0.81; Glucose_mg/dL: 81\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Congestive heart failure.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00029",
+            "patient_id": "P60670",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2025-03-15",
+            "department": "Emergency",
+            "provider": "Dr. H. Singh",
+            "age": 29,
+            "gender": "Other",
+            "tags": [
+                "abdominal pain",
+                "cholecystitis"
+            ],
+            "summary": "29-year-old Other presenting with abdominal pain, impression: Cholecystitis.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2025-03-15\n\nHPI:\n29-year-old Other presented with abdominal pain for 0 day(s). Symptoms described as mild in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 38.6 C; HR: 116 bpm; RR: 24 /min; BP: 101/76 mmHg; SpO2: 96%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 11; Hemoglobin_g/dL: 12.2; Platelets_10^3/uL: 140; Na_mEq/L: 143.7; K_mEq/L: 4.8; Creatinine_mg/dL: 1.4; Glucose_mg/dL: 154\n\nImaging:\nAbdominal ultrasound: gallbladder wall thickening and small stones noted.\n\nAssessment and Plan:\nPrimary impression: Cholecystitis.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00030",
+            "patient_id": "P58587",
+            "title": "Chest pain clinic note",
+            "created_at": "2024-09-22",
+            "department": "Urgent Care",
+            "provider": "Dr. K. Sharma",
+            "age": 73,
+            "gender": "Other",
+            "tags": [
+                "chest pain",
+                "acute coronary syndrome"
+            ],
+            "summary": "73-year-old Other presenting with chest pain, impression: Acute Coronary Syndrome.",
+            "content": "Title: Chest pain - Visit note\nVisitDate: 2024-09-22\n\nHPI:\n73-year-old Other presented with chest pain for 5 day(s). Symptoms described as mild in intensity, radiation to left arm and shortness of breath. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies prior similar episodes; no syncope.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 36.3 C; HR: 96 bpm; RR: 15 /min; BP: 137/87 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 4; Hemoglobin_g/dL: 13.8; Platelets_10^3/uL: 282; Na_mEq/L: 143.5; K_mEq/L: 4.4; Creatinine_mg/dL: 0.9; Glucose_mg/dL: 87; Troponin_ng/mL: 2.216\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Acute Coronary Syndrome.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00031",
+            "patient_id": "P49025",
+            "title": "Dizziness clinic note",
+            "created_at": "2025-07-25",
+            "department": "Internal Medicine",
+            "provider": "Dr. R. Gupta",
+            "age": 32,
+            "gender": "Female",
+            "tags": [
+                "dizziness",
+                "arrhythmia"
+            ],
+            "summary": "32-year-old Female presenting with dizziness, impression: Arrhythmia.",
+            "content": "Title: Dizziness - Visit note\nVisitDate: 2025-07-25\n\nHPI:\n32-year-old Female presented with dizziness for 8 day(s). Symptoms described as severe in intensity, worse on standing, brief loss of balance. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 36.3 C; HR: 86 bpm; RR: 18 /min; BP: 111/94 mmHg; SpO2: 92%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 13; Hemoglobin_g/dL: 12.2; Platelets_10^3/uL: 210; Na_mEq/L: 139.3; K_mEq/L: 4.5; Creatinine_mg/dL: 1.03; Glucose_mg/dL: 131\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Arrhythmia.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00032",
+            "patient_id": "P91092",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2025-02-15",
+            "department": "Pulmonology",
+            "provider": "Dr. Meera Patel",
+            "age": 85,
+            "gender": "Female",
+            "tags": [
+                "abdominal pain",
+                "gastroenteritis"
+            ],
+            "summary": "85-year-old Female presenting with abdominal pain, impression: Gastroenteritis.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2025-02-15\n\nHPI:\n85-year-old Female presented with abdominal pain for 2 day(s). Symptoms described as mild in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nSulfa\n\nVitals:\nTemperature: 37.2 C; HR: 120 bpm; RR: 26 /min; BP: 144/65 mmHg; SpO2: 99%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 13; Hemoglobin_g/dL: 10.5; Platelets_10^3/uL: 231; Na_mEq/L: 138.2; K_mEq/L: 4.9; Creatinine_mg/dL: 1.31; Glucose_mg/dL: 142\n\nImaging:\nAbdominal ultrasound: gallbladder wall thickening and small stones noted.\n\nAssessment and Plan:\nPrimary impression: Gastroenteritis.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00033",
+            "patient_id": "P68925",
+            "title": "Fever clinic note",
+            "created_at": "2024-11-02",
+            "department": "Pulmonology",
+            "provider": "Dr. A. Rao",
+            "age": 84,
+            "gender": "Other",
+            "tags": [
+                "fever",
+                "viral infection"
+            ],
+            "summary": "84-year-old Other presenting with fever, impression: Viral infection.",
+            "content": "Title: Fever - Visit note\nVisitDate: 2024-11-02\n\nHPI:\n84-year-old Other presented with fever for 12 day(s). Symptoms described as moderate in intensity, associated chills and body aches. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nSulfa\n\nVitals:\nTemperature: 39.4 C; HR: 102 bpm; RR: 25 /min; BP: 144/84 mmHg; SpO2: 96%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 5; Hemoglobin_g/dL: 10.2; Platelets_10^3/uL: 221; Na_mEq/L: 139.0; K_mEq/L: 3.9; Creatinine_mg/dL: 0.8; Glucose_mg/dL: 117; Urinalysis: no significant findings\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Viral infection.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00034",
+            "patient_id": "P06425",
+            "title": "Cough clinic note",
+            "created_at": "2025-06-10",
+            "department": "Urgent Care",
+            "provider": "Dr. N. Banerjee",
+            "age": 37,
+            "gender": "Male",
+            "tags": [
+                "cough",
+                "asthma exacerbation"
+            ],
+            "summary": "37-year-old Male presenting with cough, impression: Asthma exacerbation.",
+            "content": "Title: Cough - Visit note\nVisitDate: 2025-06-10\n\nHPI:\n37-year-old Male presented with cough for 5 day(s). Symptoms described as severe in intensity, productive cough with yellow sputum and occasional wheeze. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nNone\n\nVitals:\nTemperature: 37.9 C; HR: 110 bpm; RR: 13 /min; BP: 137/82 mmHg; SpO2: 98%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 5; Hemoglobin_g/dL: 16.1; Platelets_10^3/uL: 277; Na_mEq/L: 141.6; K_mEq/L: 3.4; Creatinine_mg/dL: 1.12; Glucose_mg/dL: 72\n\nImaging:\nChest X-ray obtained: no acute cardiopulmonary disease.\n\nAssessment and Plan:\nPrimary impression: Asthma exacerbation.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00035",
+            "patient_id": "P90035",
+            "title": "Headache clinic note",
+            "created_at": "2025-03-04",
+            "department": "Internal Medicine",
+            "provider": "Dr. R. Gupta",
+            "age": 78,
+            "gender": "Other",
+            "tags": [
+                "headache",
+                "tension headache"
+            ],
+            "summary": "78-year-old Other presenting with headache, impression: Tension headache.",
+            "content": "Title: Headache - Visit note\nVisitDate: 2025-03-04\n\nHPI:\n78-year-old Other presented with headache for 1 day(s). Symptoms described as severe in intensity, photophobia and nausea. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nNone\n\nVitals:\nTemperature: 38.2 C; HR: 66 bpm; RR: 23 /min; BP: 115/93 mmHg; SpO2: 96%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 15; Hemoglobin_g/dL: 16.5; Platelets_10^3/uL: 142; Na_mEq/L: 138.2; K_mEq/L: 4.2; Creatinine_mg/dL: 1.35; Glucose_mg/dL: 177\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Tension headache.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00036",
+            "patient_id": "P54754",
+            "title": "Fever clinic note",
+            "created_at": "2024-11-23",
+            "department": "Pulmonology",
+            "provider": "Dr. R. Gupta",
+            "age": 46,
+            "gender": "Other",
+            "tags": [
+                "fever",
+                "urinary tract infection"
+            ],
+            "summary": "46-year-old Other presenting with fever, impression: Urinary tract infection.",
+            "content": "Title: Fever - Visit note\nVisitDate: 2024-11-23\n\nHPI:\n46-year-old Other presented with fever for 13 day(s). Symptoms described as moderate in intensity, associated chills and body aches. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 39.8 C; HR: 85 bpm; RR: 12 /min; BP: 149/84 mmHg; SpO2: 97%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 11; Hemoglobin_g/dL: 11.3; Platelets_10^3/uL: 279; Na_mEq/L: 139.2; K_mEq/L: 4.7; Creatinine_mg/dL: 0.81; Glucose_mg/dL: 85; CRP_mg/L: 110\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Urinary tract infection.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00037",
+            "patient_id": "P47155",
+            "title": "Cough clinic note",
+            "created_at": "2024-12-21",
+            "department": "Internal Medicine",
+            "provider": "Dr. A. Verma",
+            "age": 43,
+            "gender": "Male",
+            "tags": [
+                "cough",
+                "acute bronchitis"
+            ],
+            "summary": "43-year-old Male presenting with cough, impression: Acute bronchitis.",
+            "content": "Title: Cough - Visit note\nVisitDate: 2024-12-21\n\nHPI:\n43-year-old Male presented with cough for 5 day(s). Symptoms described as severe in intensity, productive cough with yellow sputum and occasional wheeze. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 36.8 C; HR: 90 bpm; RR: 20 /min; BP: 117/68 mmHg; SpO2: 98%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 11; Hemoglobin_g/dL: 14.2; Platelets_10^3/uL: 206; Na_mEq/L: 144.3; K_mEq/L: 4.0; Creatinine_mg/dL: 0.86; Glucose_mg/dL: 122; CRP_mg/L: 138\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Acute bronchitis.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00038",
+            "patient_id": "P02786",
+            "title": "Fever clinic note",
+            "created_at": "2024-12-18",
+            "department": "Internal Medicine",
+            "provider": "Dr. R. Gupta",
+            "age": 75,
+            "gender": "Male",
+            "tags": [
+                "fever",
+                "covid-19"
+            ],
+            "summary": "75-year-old Male presenting with fever, impression: COVID-19.",
+            "content": "Title: Fever - Visit note\nVisitDate: 2024-12-18\n\nHPI:\n75-year-old Male presented with fever for 8 day(s). Symptoms described as moderate in intensity, associated chills and body aches. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 39.0 C; HR: 62 bpm; RR: 19 /min; BP: 140/82 mmHg; SpO2: 93%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 4; Hemoglobin_g/dL: 13.2; Platelets_10^3/uL: 318; Na_mEq/L: 143.6; K_mEq/L: 4.2; Creatinine_mg/dL: 0.76; Glucose_mg/dL: 108\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: COVID-19.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00039",
+            "patient_id": "P53118",
+            "title": "Fatigue clinic note",
+            "created_at": "2025-02-12",
+            "department": "Urgent Care",
+            "provider": "Dr. R. Gupta",
+            "age": 7,
+            "gender": "Male",
+            "tags": [
+                "fatigue",
+                "hypothyroidism"
+            ],
+            "summary": "7-year-old Male presenting with fatigue, impression: Hypothyroidism.",
+            "content": "Title: Fatigue - Visit note\nVisitDate: 2025-02-12\n\nHPI:\n7-year-old Male presented with fatigue for 13 day(s). Symptoms described as mild in intensity, worse over weeks, interfering with daily activities. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 38.2 C; HR: 120 bpm; RR: 14 /min; BP: 121/80 mmHg; SpO2: 93%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 4; Hemoglobin_g/dL: 10.5; Platelets_10^3/uL: 348; Na_mEq/L: 137.3; K_mEq/L: 3.6; Creatinine_mg/dL: 0.91; Glucose_mg/dL: 129\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Hypothyroidism.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00040",
+            "patient_id": "P44430",
+            "title": "Chest pain clinic note",
+            "created_at": "2025-06-06",
+            "department": "Pulmonology",
+            "provider": "Dr. K. Sharma",
+            "age": 90,
+            "gender": "Female",
+            "tags": [
+                "chest pain",
+                "acute coronary syndrome"
+            ],
+            "summary": "90-year-old Female presenting with chest pain, impression: Acute Coronary Syndrome.",
+            "content": "Title: Chest pain - Visit note\nVisitDate: 2025-06-06\n\nHPI:\n90-year-old Female presented with chest pain for 9 day(s). Symptoms described as moderate in intensity, radiation to left arm and shortness of breath. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies prior similar episodes; no syncope.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 37.9 C; HR: 87 bpm; RR: 12 /min; BP: 111/86 mmHg; SpO2: 98%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 6; Hemoglobin_g/dL: 10.3; Platelets_10^3/uL: 348; Na_mEq/L: 144.8; K_mEq/L: 4.7; Creatinine_mg/dL: 1.55; Glucose_mg/dL: 138; Troponin_ng/mL: 2.095\n\nImaging:\nChest X-ray obtained: no acute cardiopulmonary disease.\n\nAssessment and Plan:\nPrimary impression: Acute Coronary Syndrome.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00041",
+            "patient_id": "P92680",
+            "title": "Cough clinic note",
+            "created_at": "2025-08-22",
+            "department": "Primary Care",
+            "provider": "Dr. R. Gupta",
+            "age": 51,
+            "gender": "Other",
+            "tags": [
+                "cough",
+                "pneumonia"
+            ],
+            "summary": "51-year-old Other presenting with cough, impression: Pneumonia.",
+            "content": "Title: Cough - Visit note\nVisitDate: 2025-08-22\n\nHPI:\n51-year-old Other presented with cough for 4 day(s). Symptoms described as severe in intensity, productive cough with yellow sputum and occasional wheeze. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nAmoxicillin-clavulanate\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 36.2 C; HR: 71 bpm; RR: 17 /min; BP: 109/63 mmHg; SpO2: 93%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 8; Hemoglobin_g/dL: 11.7; Platelets_10^3/uL: 193; Na_mEq/L: 138.6; K_mEq/L: 4.5; Creatinine_mg/dL: 1.51; Glucose_mg/dL: 145\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Pneumonia.\nStart medication: Amoxicillin-clavulanate. Order labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00042",
+            "patient_id": "P80201",
+            "title": "Fever clinic note",
+            "created_at": "2024-09-20",
+            "department": "Pulmonology",
+            "provider": "Dr. S. Iyer",
+            "age": 55,
+            "gender": "Male",
+            "tags": [
+                "fever",
+                "viral infection"
+            ],
+            "summary": "55-year-old Male presenting with fever, impression: Viral infection.",
+            "content": "Title: Fever - Visit note\nVisitDate: 2024-09-20\n\nHPI:\n55-year-old Male presented with fever for 8 day(s). Symptoms described as mild in intensity, associated chills and body aches. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPeanuts\n\nVitals:\nTemperature: 39.5 C; HR: 60 bpm; RR: 14 /min; BP: 140/77 mmHg; SpO2: 98%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 8; Hemoglobin_g/dL: 15.8; Platelets_10^3/uL: 162; Na_mEq/L: 139.5; K_mEq/L: 4.9; Creatinine_mg/dL: 0.81; Glucose_mg/dL: 92; CRP_mg/L: 134\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Viral infection.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00043",
+            "patient_id": "P54691",
+            "title": "Fatigue clinic note",
+            "created_at": "2025-05-07",
+            "department": "Internal Medicine",
+            "provider": "Dr. A. Verma",
+            "age": 57,
+            "gender": "Other",
+            "tags": [
+                "fatigue",
+                "depression"
+            ],
+            "summary": "57-year-old Other presenting with fatigue, impression: Depression.",
+            "content": "Title: Fatigue - Visit note\nVisitDate: 2025-05-07\n\nHPI:\n57-year-old Other presented with fatigue for 12 day(s). Symptoms described as mild in intensity, worse over weeks, interfering with daily activities. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nSertraline\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 36.0 C; HR: 75 bpm; RR: 26 /min; BP: 130/63 mmHg; SpO2: 93%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 13; Hemoglobin_g/dL: 13.9; Platelets_10^3/uL: 188; Na_mEq/L: 142.7; K_mEq/L: 3.5; Creatinine_mg/dL: 0.71; Glucose_mg/dL: 162\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Depression.\nStart medication: Sertraline. Order labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00044",
+            "patient_id": "P10570",
+            "title": "Chest pain clinic note",
+            "created_at": "2025-01-05",
+            "department": "Urgent Care",
+            "provider": "Dr. J. Kim",
+            "age": 76,
+            "gender": "Other",
+            "tags": [
+                "chest pain",
+                "acute coronary syndrome"
+            ],
+            "summary": "76-year-old Other presenting with chest pain, impression: Acute Coronary Syndrome.",
+            "content": "Title: Chest pain - Visit note\nVisitDate: 2025-01-05\n\nHPI:\n76-year-old Other presented with chest pain for 3 day(s). Symptoms described as severe in intensity, radiation to left arm and shortness of breath. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies prior similar episodes; no syncope.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nLatex\n\nVitals:\nTemperature: 37.5 C; HR: 57 bpm; RR: 19 /min; BP: 120/80 mmHg; SpO2: 94%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 14; Hemoglobin_g/dL: 10.3; Platelets_10^3/uL: 362; Na_mEq/L: 142.2; K_mEq/L: 4.0; Creatinine_mg/dL: 1.54; Glucose_mg/dL: 126; Troponin_ng/mL: 0.003\n\nImaging:\nChest X-ray obtained: no acute cardiopulmonary disease.\n\nAssessment and Plan:\nPrimary impression: Acute Coronary Syndrome.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00045",
+            "patient_id": "P02185",
+            "title": "Shortness of breath clinic note",
+            "created_at": "2025-01-10",
+            "department": "Urgent Care",
+            "provider": "Dr. A. Verma",
+            "age": 60,
+            "gender": "Other",
+            "tags": [
+                "shortness of breath",
+                "pulmonary embolism"
+            ],
+            "summary": "60-year-old Other presenting with shortness of breath, impression: Pulmonary embolism.",
+            "content": "Title: Shortness of breath - Visit note\nVisitDate: 2025-01-10\n\nHPI:\n60-year-old Other presented with shortness of breath for 8 day(s). Symptoms described as severe in intensity, worse on exertion, orthopnea at night. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nSulfa\n\nVitals:\nTemperature: 38.8 C; HR: 110 bpm; RR: 21 /min; BP: 109/65 mmHg; SpO2: 95%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 6; Hemoglobin_g/dL: 14.9; Platelets_10^3/uL: 313; Na_mEq/L: 136.5; K_mEq/L: 4.3; Creatinine_mg/dL: 1.01; Glucose_mg/dL: 87\n\nImaging:\nChest X-ray obtained: cardiomegaly with mild pulmonary vascular congestion.\n\nAssessment and Plan:\nPrimary impression: Pulmonary embolism.\nOrder labs as above and review results. Imaging ordered and results to be reviewed. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00046",
+            "patient_id": "P71914",
+            "title": "Headache clinic note",
+            "created_at": "2025-06-12",
+            "department": "Internal Medicine",
+            "provider": "Dr. R. Gupta",
+            "age": 73,
+            "gender": "Other",
+            "tags": [
+                "headache",
+                "migraine"
+            ],
+            "summary": "73-year-old Other presenting with headache, impression: Migraine.",
+            "content": "Title: Headache - Visit note\nVisitDate: 2025-06-12\n\nHPI:\n73-year-old Other presented with headache for 10 day(s). Symptoms described as moderate in intensity, photophobia and nausea. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nHypertension\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 37.9 C; HR: 71 bpm; RR: 23 /min; BP: 137/67 mmHg; SpO2: 98%\n\nPhysical Exam:\nGeneral: patient appears moderately ill. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 12; Hemoglobin_g/dL: 15.4; Platelets_10^3/uL: 376; Na_mEq/L: 134.8; K_mEq/L: 3.4; Creatinine_mg/dL: 0.65; Glucose_mg/dL: 174\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Migraine.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00047",
+            "patient_id": "P91436",
+            "title": "Shortness of breath clinic note",
+            "created_at": "2025-08-15",
+            "department": "Urgent Care",
+            "provider": "Dr. Meera Patel",
+            "age": 31,
+            "gender": "Other",
+            "tags": [
+                "shortness of breath",
+                "congestive heart failure"
+            ],
+            "summary": "31-year-old Other presenting with shortness of breath, impression: Congestive heart failure.",
+            "content": "Title: Shortness of breath - Visit note\nVisitDate: 2025-08-15\n\nHPI:\n31-year-old Other presented with shortness of breath for 4 day(s). Symptoms described as moderate in intensity, worse on exertion, orthopnea at night. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nSulfa\n\nVitals:\nTemperature: 37.3 C; HR: 74 bpm; RR: 26 /min; BP: 112/74 mmHg; SpO2: 95%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 13; Hemoglobin_g/dL: 16.0; Platelets_10^3/uL: 247; Na_mEq/L: 140.9; K_mEq/L: 4.0; Creatinine_mg/dL: 0.74; Glucose_mg/dL: 97\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Congestive heart failure.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00048",
+            "patient_id": "P22330",
+            "title": "Dizziness clinic note",
+            "created_at": "2025-04-01",
+            "department": "Urgent Care",
+            "provider": "Dr. S. Iyer",
+            "age": 63,
+            "gender": "Female",
+            "tags": [
+                "dizziness",
+                "arrhythmia"
+            ],
+            "summary": "63-year-old Female presenting with dizziness, impression: Arrhythmia.",
+            "content": "Title: Dizziness - Visit note\nVisitDate: 2025-04-01\n\nHPI:\n63-year-old Female presented with dizziness for 6 day(s). Symptoms described as mild in intensity, worse on standing, brief loss of balance. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nNo significant past medical history\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 37.5 C; HR: 59 bpm; RR: 23 /min; BP: 120/94 mmHg; SpO2: 96%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: clear to auscultation bilaterally. Abdomen: tender in the RLQ.\n\nLaboratory Results:\nWBC_10^3/uL: 6; Hemoglobin_g/dL: 11.8; Platelets_10^3/uL: 340; Na_mEq/L: 138.0; K_mEq/L: 4.2; Creatinine_mg/dL: 1.05; Glucose_mg/dL: 89\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Arrhythmia.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00049",
+            "patient_id": "P50365",
+            "title": "Headache clinic note",
+            "created_at": "2024-12-04",
+            "department": "Pulmonology",
+            "provider": "Dr. A. Rao",
+            "age": 13,
+            "gender": "Female",
+            "tags": [
+                "headache",
+                "sinusitis"
+            ],
+            "summary": "13-year-old Female presenting with headache, impression: Sinusitis.",
+            "content": "Title: Headache - Visit note\nVisitDate: 2024-12-04\n\nHPI:\n13-year-old Female presented with headache for 13 day(s). Symptoms described as moderate in intensity, photophobia and nausea. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nType 2 Diabetes Mellitus\n\nMedications on arrival:\nNone reported\n\nAllergies:\nNone\n\nVitals:\nTemperature: 38.7 C; HR: 110 bpm; RR: 25 /min; BP: 132/86 mmHg; SpO2: 95%\n\nPhysical Exam:\nGeneral: patient appears in no acute distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: wheezes bilaterally. Abdomen: soft, non-tender.\n\nLaboratory Results:\nWBC_10^3/uL: 11; Hemoglobin_g/dL: 13.4; Platelets_10^3/uL: 204; Na_mEq/L: 139.4; K_mEq/L: 4.7; Creatinine_mg/dL: 1.29; Glucose_mg/dL: 70\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Sinusitis.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        },
+        {
+            "doc_id": "D00050",
+            "patient_id": "P59247",
+            "title": "Abdominal pain clinic note",
+            "created_at": "2025-04-27",
+            "department": "Urgent Care",
+            "provider": "Dr. N. Banerjee",
+            "age": 16,
+            "gender": "Male",
+            "tags": [
+                "abdominal pain",
+                "appendicitis"
+            ],
+            "summary": "16-year-old Male presenting with abdominal pain, impression: Appendicitis.",
+            "content": "Title: Abdominal pain - Visit note\nVisitDate: 2025-04-27\n\nHPI:\n16-year-old Male presented with abdominal pain for 9 day(s). Symptoms described as mild in intensity, nausea and two episodes of non-bloody emesis. Reports partial relief with over-the-counter medications.\n\nReview of Systems:\nDenies chest pain, palpitations, syncope, or recent travel.\n\nPast Medical History:\nAsthma\n\nMedications on arrival:\nNone reported\n\nAllergies:\nPenicillin\n\nVitals:\nTemperature: 38.4 C; HR: 77 bpm; RR: 25 /min; BP: 129/94 mmHg; SpO2: 94%\n\nPhysical Exam:\nGeneral: patient appears in mild distress. Cardiac: regular rate and rhythm, no murmurs. Lungs: crackles at bases. Abdomen: mild diffuse tenderness.\n\nLaboratory Results:\nWBC_10^3/uL: 6; Hemoglobin_g/dL: 11.8; Platelets_10^3/uL: 175; Na_mEq/L: 142.4; K_mEq/L: 3.4; Creatinine_mg/dL: 1.14; Glucose_mg/dL: 178; Urinalysis: no significant findings\n\nImaging:\nNo imaging performed.\n\nAssessment and Plan:\nPrimary impression: Appendicitis.\nOrder labs as above and review results. Advise return precautions and follow up in 3-7 days or sooner if symptoms worsen.\n\nFollow-up instructions:\nPatient advised to seek urgent care for worsening symptoms. Routine follow-up with primary care.",
+            "source": "simulated_ehr",
+            "intended_use": "rag_hackathon",
+            "license": "synthetic_no_phi",
+            "notes": "Synthetic data generated for hackathon / RAG demo. No real patient data."
+        }
+    ]
+}

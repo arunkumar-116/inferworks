@@ -1,0 +1,683 @@
+{
+  "inventory_database": {
+    "last_updated": "2024-03-22T10:30:00Z",
+    "total_equipment_count": 45,
+    "active_equipment": 42,
+    "maintenance_pending": 3,
+    "database_version": "v2.1.3"
+  },
+  "equipment_records": [
+    {
+      "equipment_id": "EQ_2024_001",
+      "equipment_name": "High-Speed Centrifuge Model X200",
+      "category": "laboratory_equipment",
+      "subcategory": "sample_preparation",
+      "manufacturer": "LabTech Industries",
+      "model_number": "X200-Pro",
+      "serial_number": "LT-2024-0045",
+      "asset_tag": "ASSET_001_2024",
+      "purchase_info": {
+        "purchase_date": "2024-01-10",
+        "purchase_price": 15500.00,
+        "currency": "USD",
+        "vendor": "Scientific Equipment Solutions",
+        "purchase_order": "PO-2024-0001",
+        "warranty_period": "3 years",
+        "warranty_expiration": "2027-01-10"
+      },
+      "specifications": {
+        "max_speed": "15000 RPM",
+        "capacity": "24 x 15ml tubes",
+        "temperature_range": "-10°C to 40°C",
+        "power_requirements": "120V, 60Hz, 8A",
+        "dimensions": {
+          "width": 45.5,
+          "depth": 38.2,
+          "height": 32.1,
+          "unit": "cm"
+        },
+        "weight": "28.5 kg",
+        "noise_level": "< 58 dB"
+      },
+      "location": {
+        "building": "Research Building A",
+        "floor": 2,
+        "room": "Lab Room 204",
+        "position": "Bench Station 3",
+        "responsible_department": "Hematology"
+      },
+      "status": {
+        "operational_status": "active",
+        "condition": "excellent",
+        "last_inspection": "2024-03-15",
+        "next_inspection": "2024-06-15",
+        "calibration_status": "current",
+        "last_calibration": "2024-02-28",
+        "next_calibration": "2024-08-28"
+      },
+      "maintenance_history": [
+        {
+          "maintenance_id": "MAINT_001_2024",
+          "date": "2024-03-15",
+          "type": "preventive_maintenance",
+          "technician": "Mike Rodriguez",
+          "technician_id": "TECH_005",
+          "duration_minutes": 90,
+          "description": "Routine quarterly maintenance - cleaning, lubrication, safety checks",
+          "parts_replaced": ["rotor_seal", "safety_latch"],
+          "cost": 125.50,
+          "next_maintenance": "2024-06-15",
+          "status": "completed",
+          "notes": "All systems functioning within normal parameters"
+        },
+        {
+          "maintenance_id": "MAINT_002_2024",
+          "date": "2024-01-25",
+          "type": "installation",
+          "technician": "Sarah Chen",
+          "technician_id": "TECH_003",
+          "duration_minutes": 180,
+          "description": "Initial installation and setup",
+          "cost": 300.00,
+          "status": "completed",
+          "notes": "Equipment installed and calibrated successfully"
+        }
+      ],
+      "usage_log": [
+        {
+          "log_id": "USE_001_2024_03_22",
+          "date": "2024-03-22",
+          "time_start": "09:15:00",
+          "time_end": "09:45:00",
+          "user": "Dr. Emily Wilson",
+          "user_id": "USER_007",
+          "department": "Hematology",
+          "duration_minutes": 30,
+          "purpose": "Blood sample processing - CBC analysis",
+          "sample_count": 18,
+          "speed_setting": "3000 RPM",
+          "temperature_setting": "4°C",
+          "notes": "Routine morning batch processing"
+        },
+        {
+          "log_id": "USE_002_2024_03_21",
+          "date": "2024-03-21",
+          "time_start": "14:20:00",
+          "time_end": "15:05:00",
+          "user": "Lab Tech Jennifer Adams",
+          "user_id": "USER_012",
+          "department": "Clinical Chemistry",
+          "duration_minutes": 45,
+          "purpose": "Serum separation for lipid panel testing",
+          "sample_count": 24,
+          "speed_setting": "2500 RPM",
+          "temperature_setting": "room_temperature",
+          "notes": "Samples for afternoon chemistry batch"
+        },
+        {
+          "log_id": "USE_003_2024_03_20",
+          "date": "2024-03-20",
+          "time_start": "11:30:00",
+          "time_end": "12:15:00",
+          "user": "Dr. Robert Martinez",
+          "user_id": "USER_003",
+          "department": "Research",
+          "duration_minutes": 45,
+          "purpose": "Research sample preparation - protein extraction",
+          "sample_count": 12,
+          "speed_setting": "12000 RPM",
+          "temperature_setting": "4°C",
+          "notes": "High-speed spin for protein pellet formation"
+        }
+      ],
+      "compliance": {
+        "fda_registration": true,
+        "iso_certification": "ISO 9001:2015",
+        "ce_marking": true,
+        "last_safety_inspection": "2024-03-01",
+        "safety_inspector": "Mark Thompson",
+        "safety_compliance_score": 98
+      }
+    },
+    {
+      "equipment_id": "EQ_2024_002",
+      "equipment_name": "Automated Hematology Analyzer HA-500",
+      "category": "diagnostic_equipment",
+      "subcategory": "hematology_analyzers",
+      "manufacturer": "Sysmex Corporation",
+      "model_number": "HA-500-DX",
+      "serial_number": "SX-2024-0128",
+      "asset_tag": "ASSET_002_2024",
+      "purchase_info": {
+        "purchase_date": "2023-11-15",
+        "purchase_price": 89500.00,
+        "currency": "USD",
+        "vendor": "Medical Diagnostics Inc.",
+        "purchase_order": "PO-2023-0089",
+        "warranty_period": "5 years",
+        "warranty_expiration": "2028-11-15"
+      },
+      "specifications": {
+        "throughput": "120 samples/hour",
+        "parameters": ["WBC", "RBC", "HGB", "HCT", "MCV", "MCH", "MCHC", "PLT"],
+        "sample_volume": "20 μL",
+        "reagent_consumption": "minimal",
+        "dimensions": {
+          "width": 85.0,
+          "depth": 75.0,
+          "height": 95.0,
+          "unit": "cm"
+        },
+        "weight": "125.0 kg",
+        "power_requirements": "220V, 50/60Hz, 15A"
+      },
+      "location": {
+        "building": "Research Building A",
+        "floor": 2,
+        "room": "Hematology Lab 201",
+        "position": "Main Analysis Station",
+        "responsible_department": "Hematology"
+      },
+      "status": {
+        "operational_status": "active",
+        "condition": "good",
+        "last_inspection": "2024-03-10",
+        "next_inspection": "2024-06-10",
+        "calibration_status": "current",
+        "last_calibration": "2024-03-18",
+        "next_calibration": "2024-03-25"
+      },
+      "maintenance_history": [
+        {
+          "maintenance_id": "MAINT_003_2024",
+          "date": "2024-03-10",
+          "type": "preventive_maintenance",
+          "technician": "Lisa Park",
+          "technician_id": "TECH_008",
+          "duration_minutes": 240,
+          "description": "Monthly PM - reagent line cleaning, optical system check",
+          "parts_replaced": ["reagent_tubing", "waste_container"],
+          "cost": 450.00,
+          "next_maintenance": "2024-04-10",
+          "status": "completed",
+          "notes": "All QC values within acceptable range"
+        }
+      ],
+      "usage_log": [
+        {
+          "log_id": "USE_004_2024_03_22",
+          "date": "2024-03-22",
+          "time_start": "08:00:00",
+          "time_end": "16:30:00",
+          "user": "Lab Tech Maria Santos",
+          "user_id": "USER_015",
+          "department": "Hematology",
+          "samples_processed": 156,
+          "purpose": "Routine CBC analysis",
+          "qc_results": {
+            "normal_control": "passed",
+            "abnormal_control": "passed",
+            "blank": "passed"
+          },
+          "notes": "High volume day - no instrument errors"
+        }
+      ],
+      "reagent_inventory": {
+        "current_reagents": [
+          {
+            "reagent_name": "CBC Reagent Pack A",
+            "lot_number": "CBC-2024-001",
+            "expiration_date": "2024-06-15",
+            "volume_remaining": "450 mL",
+            "initial_volume": "500 mL"
+          },
+          {
+            "reagent_name": "Diluent Solution",
+            "lot_number": "DIL-2024-008",
+            "expiration_date": "2024-08-20",
+            "volume_remaining": "2.8 L",
+            "initial_volume": "3.0 L"
+          }
+        ],
+        "reorder_alerts": [
+          {
+            "reagent": "CBC Reagent Pack A",
+            "current_level": "90%",
+            "reorder_threshold": "25%",
+            "estimated_days_remaining": 12
+          }
+        ]
+      },
+      "compliance": {
+        "clia_waived": false,
+        "fda_cleared": true,
+        "last_proficiency_testing": "2024-02-15",
+        "pt_results": "satisfactory",
+        "accreditation": "CAP_accredited"
+      }
+    },
+    {
+      "equipment_id": "EQ_2024_003",
+      "equipment_name": "Biosafety Cabinet Class II Type A2",
+      "category": "safety_equipment",
+      "subcategory": "biosafety_cabinets",
+      "manufacturer": "Thermo Fisher Scientific",
+      "model_number": "1300-Series-A2",
+      "serial_number": "TF-BSC-2024-0033",
+      "asset_tag": "ASSET_003_2024",
+      "purchase_info": {
+        "purchase_date": "2023-09-20",
+        "purchase_price": 12800.00,
+        "currency": "USD",
+        "vendor": "Laboratory Safety Solutions",
+        "purchase_order": "PO-2023-0067",
+        "warranty_period": "2 years",
+        "warranty_expiration": "2025-09-20"
+      },
+      "specifications": {
+        "work_area_size": "1.2m x 0.6m",
+        "airflow_velocity": "0.38 m/s ± 0.025",
+        "hepa_filter_efficiency": "99.99% at 0.3 μm",
+        "noise_level": "< 67 dB",
+        "electrical_requirements": "115V, 60Hz, 8.5A",
+        "dimensions": {
+          "width": 122.0,
+          "depth": 81.0,
+          "height": 203.0,
+          "unit": "cm"
+        },
+        "weight": "180.0 kg"
+      },
+      "location": {
+        "building": "Research Building A",
+        "floor": 3,
+        "room": "Microbiology Lab 301",
+        "position": "North Wall Station 1",
+        "responsible_department": "Microbiology"
+      },
+      "status": {
+        "operational_status": "active",
+        "condition": "excellent",
+        "last_inspection": "2024-03-20",
+        "next_inspection": "2024-09-20",
+        "certification_status": "current",
+        "last_certification": "2024-03-20",
+        "next_certification": "2025-03-20"
+      },
+      "airflow_monitoring": {
+        "last_test_date": "2024-03-20",
+        "inflow_velocity": "0.385 m/s",
+        "downflow_velocity": "0.382 m/s",
+        "test_results": "passed",
+        "next_test_date": "2024-09-20",
+        "technician": "Air Safety Systems Inc.",
+        "certificate_number": "BSC-CERT-2024-0045"
+      },
+      "usage_log": [
+        {
+          "log_id": "USE_005_2024_03_22",
+          "date": "2024-03-22",
+          "time_start": "10:00:00",
+          "time_end": "12:30:00",
+          "user": "Dr. Patricia Lee",
+          "user_id": "USER_009",
+          "department": "Microbiology",
+          "duration_minutes": 150,
+          "purpose": "Bacterial culture isolation and identification",
+          "biosafety_level": "BSL-2",
+          "organisms_handled": ["E. coli", "S. aureus"],
+          "notes": "Routine clinical isolate processing"
+        },
+        {
+          "log_id": "USE_006_2024_03_21",
+          "date": "2024-03-21",
+          "time_start": "14:15:00",
+          "time_end": "16:45:00",
+          "user": "Graduate Student Alex Kim",
+          "user_id": "USER_018",
+          "department": "Research",
+          "duration_minutes": 150,
+          "purpose": "Cell culture work - mammalian cell lines",
+          "biosafety_level": "BSL-1",
+          "cell_lines": ["HeLa", "293T"],
+          "notes": "Cell passage and transfection setup"
+        }
+      ],
+      "filter_maintenance": {
+        "hepa_filter_install_date": "2024-01-15",
+        "hepa_filter_life_expectancy": "24 months",
+        "hepa_filter_next_change": "2026-01-15",
+        "prefilter_last_change": "2024-03-01",
+        "prefilter_change_interval": "3 months",
+        "prefilter_next_change": "2024-06-01"
+      },
+      "compliance": {
+        "nsf_49_certified": true,
+        "ul_listed": true,
+        "last_safety_audit": "2024-02-28",
+        "safety_violations": 0,
+        "training_required": ["BSC Operation", "Aseptic Technique", "Biosafety Level 2"]
+      }
+    },
+    {
+      "equipment_id": "EQ_2024_004",
+      "equipment_name": "Ultra-Low Temperature Freezer ULT-85",
+      "category": "storage_equipment",
+      "subcategory": "ultra_low_freezers",
+      "manufacturer": "Eppendorf",
+      "model_number": "CryoCube F570",
+      "serial_number": "EP-2024-0087",
+      "asset_tag": "ASSET_004_2024",
+      "purchase_info": {
+        "purchase_date": "2023-12-05",
+        "purchase_price": 18900.00,
+        "currency": "USD",
+        "vendor": "Cold Storage Solutions",
+        "purchase_order": "PO-2023-0134",
+        "warranty_period": "3 years",
+        "warranty_expiration": "2026-12-05"
+      },
+      "specifications": {
+        "temperature_range": "-50°C to -86°C",
+        "capacity": "570 liters",
+        "external_dimensions": {
+          "width": 78.5,
+          "depth": 82.0,
+          "height": 195.5,
+          "unit": "cm"
+        },
+        "internal_dimensions": {
+          "width": 55.0,
+          "depth": 57.5,
+          "height": 175.0,
+          "unit": "cm"
+        },
+        "weight": "275.0 kg",
+        "power_consumption": "8.5 kWh/day",
+        "noise_level": "< 48 dB"
+      },
+      "location": {
+        "building": "Research Building A",
+        "floor": 1,
+        "room": "Cold Storage Room 105",
+        "position": "East Wall Unit 2",
+        "responsible_department": "Central Storage"
+      },
+      "status": {
+        "operational_status": "active",
+        "condition": "excellent",
+        "current_temperature": "-82.1°C",
+        "door_openings_today": 12,
+        "last_defrost": "2024-02-15",
+        "next_defrost": "2024-08-15"
+      },
+      "temperature_monitoring": {
+        "monitoring_system": "continuous_digital",
+        "alarm_thresholds": {
+          "high_temp_alarm": "-75°C",
+          "low_temp_alarm": "-90°C",
+          "door_open_alarm": "2 minutes"
+        },
+        "recent_alarms": [],
+        "data_logging_interval": "5 minutes",
+        "backup_monitoring": "external_probe_system"
+      },
+      "inventory": {
+        "total_boxes": 245,
+        "available_positions": 55,
+        "capacity_utilization": "81.7%",
+        "sample_types": [
+          {
+            "type": "DNA samples",
+            "box_count": 89,
+            "storage_conditions": "-80°C long-term"
+          },
+          {
+            "type": "RNA samples",
+            "box_count": 76,
+            "storage_conditions": "-80°C RNase-free"
+          },
+          {
+            "type": "Protein samples",
+            "box_count": 45,
+            "storage_conditions": "-80°C with protease inhibitors"
+          },
+          {
+            "type": "Cell lines",
+            "box_count": 35,
+            "storage_conditions": "-80°C in DMSO"
+          }
+        ]
+      },
+      "maintenance_history": [
+        {
+          "maintenance_id": "MAINT_004_2024",
+          "date": "2024-02-15",
+          "type": "preventive_maintenance",
+          "technician": "Cold Tech Services",
+          "technician_id": "CTS_002",
+          "duration_minutes": 180,
+          "description": "Annual defrost cycle and system check",
+          "cost": 275.00,
+          "next_maintenance": "2024-08-15",
+          "status": "completed",
+          "notes": "All refrigeration systems operating optimally"
+        }
+      ],
+      "usage_log": [
+        {
+          "log_id": "USE_007_2024_03_22",
+          "date": "2024-03-22",
+          "access_logs": [
+            {
+              "time": "09:45:00",
+              "user": "Dr. Sarah Johnson",
+              "user_id": "USER_001",
+              "purpose": "Retrieved DNA samples for PCR analysis",
+              "items_accessed": ["Box DNA-2024-045", "Box DNA-2024-046"],
+              "door_open_duration": "3 minutes 15 seconds"
+            },
+            {
+              "time": "14:30:00",
+              "user": "Lab Tech Kevin Wong",
+              "user_id": "USER_022",
+              "purpose": "Stored new RNA extractions",
+              "items_accessed": ["Box RNA-2024-089"],
+              "door_open_duration": "2 minutes 45 seconds"
+            }
+          ]
+        }
+      ],
+      "compliance": {
+        "energy_star_certified": true,
+        "ul_listed": true,
+        "backup_power_connected": true,
+        "emergency_contacts": [
+          {
+            "name": "Cold Tech Emergency Service",
+            "phone": "1-800-COLD-911",
+            "response_time": "< 4 hours"
+          }
+        ]
+      }
+    },
+    {
+      "equipment_id": "EQ_2024_005",
+      "equipment_name": "PCR Thermal Cycler TC-96",
+      "category": "molecular_biology_equipment",
+      "subcategory": "thermal_cyclers",
+      "manufacturer": "Bio-Rad Laboratories",
+      "model_number": "C1000-Touch",
+      "serial_number": "BR-2024-0156",
+      "asset_tag": "ASSET_005_2024",
+      "purchase_info": {
+        "purchase_date": "2024-02-20",
+        "purchase_price": 8750.00,
+        "currency": "USD",
+        "vendor": "Molecular Biology Supply Co.",
+        "purchase_order": "PO-2024-0023",
+        "warranty_period": "2 years",
+        "warranty_expiration": "2026-02-20"
+      },
+      "specifications": {
+        "block_format": "96-well",
+        "temperature_range": "4°C to 100°C",
+        "ramp_rate": "5°C/second maximum",
+        "temperature_accuracy": "±0.2°C",
+        "temperature_uniformity": "±0.3°C",
+        "heated_lid": true,
+        "lid_temperature": "100°C to 110°C",
+        "dimensions": {
+          "width": 34.3,
+          "depth": 50.8,
+          "height": 27.9,
+          "unit": "cm"
+        },
+        "weight": "22.7 kg"
+      },
+      "location": {
+        "building": "Research Building A",
+        "floor": 2,
+        "room": "Molecular Biology Lab 208",
+        "position": "PCR Station 1",
+        "responsible_department": "Molecular Diagnostics"
+      },
+      "status": {
+        "operational_status": "active",
+        "condition": "excellent",
+        "last_calibration": "2024-03-01",
+        "next_calibration": "2024-09-01",
+        "block_cycles_completed": 2847,
+        "estimated_remaining_cycles": "97153"
+      },
+      "usage_log": [
+        {
+          "log_id": "USE_008_2024_03_22",
+          "date": "2024-03-22",
+          "runs": [
+            {
+              "run_id": "PCR_2024_0445",
+              "time_start": "08:30:00",
+              "time_end": "10:15:00",
+              "user": "Dr. Michael Chen",
+              "user_id": "USER_005",
+              "protocol": "Standard_PCR_35cycles",
+              "samples": 48,
+              "purpose": "Gene expression analysis",
+              "template": "cDNA",
+              "primers": ["GAPDH_F", "GAPDH_R"],
+              "success_rate": "100%",
+              "notes": "All samples amplified successfully"
+            },
+            {
+              "run_id": "PCR_2024_0446",
+              "time_start": "13:45:00",
+              "time_end": "15:20:00",
+              "user": "Graduate Student Lisa Zhang",
+              "user_id": "USER_019",
+              "protocol": "Touchdown_PCR_40cycles",
+              "samples": 72,
+              "purpose": "Genotyping analysis",
+              "template": "genomic_DNA",
+              "primers": ["SNP_rs123_F", "SNP_rs123_R"],
+              "success_rate": "95.8%",
+              "notes": "3 samples failed - likely low DNA concentration"
+            }
+          ]
+        }
+      ],
+      "protocols": [
+        {
+          "protocol_name": "Standard_PCR_35cycles",
+          "description": "Standard PCR protocol for routine amplification",
+          "steps": [
+            {"step": 1, "temperature": 95.0, "duration": "5:00", "description": "Initial denaturation"},
+            {"step": 2, "temperature": 95.0, "duration": "0:30", "cycles": 35, "description": "Denaturation"},
+            {"step": 3, "temperature": 60.0, "duration": "0:30", "cycles": 35, "description": "Annealing"},
+            {"step": 4, "temperature": 72.0, "duration": "1:00", "cycles": 35, "description": "Extension"},
+            {"step": 5, "temperature": 72.0, "duration": "10:00", "description": "Final extension"},
+            {"step": 6, "temperature": 4.0, "duration": "hold", "description": "Hold"}
+          ]
+        },
+        {
+          "protocol_name": "qPCR_FastCycling",
+          "description": "Fast cycling protocol for quantitative PCR",
+          "steps": [
+            {"step": 1, "temperature": 95.0, "duration": "3:00", "description": "Hot start activation"},
+            {"step": 2, "temperature": 95.0, "duration": "0:10", "cycles": 40, "description": "Denaturation"},
+            {"step": 3, "temperature": 60.0, "duration": "0:20", "cycles": 40, "description": "Annealing/Extension"}
+          ]
+        }
+      ],
+      "maintenance_history": [
+        {
+          "maintenance_id": "MAINT_005_2024",
+          "date": "2024-03-01",
+          "type": "calibration",
+          "technician": "Bio-Rad Field Service",
+          "technician_id": "BR_FS_003",
+          "duration_minutes": 120,
+          "description": "Temperature calibration and verification",
+          "cost": 350.00,
+          "next_maintenance": "2024-09-01",
+          "status": "completed",
+          "calibration_results": {
+            "corner_A1": {"set": 95.0, "actual": 94.98, "deviation": -0.02},
+            "corner_A12": {"set": 95.0, "actual": 95.01, "deviation": 0.01},
+            "corner_H1": {"set": 95.0, "actual": 94.99, "deviation": -0.01},
+            "corner_H12": {"set": 95.0, "actual": 95.02, "deviation": 0.02},
+            "center": {"set": 95.0, "actual": 95.00, "deviation": 0.00}
+          }
+        }
+      ],
+      "compliance": {
+        "fda_registered": false,
+        "ce_marked": true,
+        "iso_13485_compliant": true,
+        "software_version": "v4.1.2",
+        "last_software_update": "2024-02-25"
+      }
+    }
+  ],
+  "summary_statistics": {
+    "equipment_by_category": {
+      "laboratory_equipment": 1,
+      "diagnostic_equipment": 1,
+      "safety_equipment": 1,
+      "storage_equipment": 1,
+      "molecular_biology_equipment": 1
+    },
+    "maintenance_status": {
+      "current": 5,
+      "overdue": 0,
+      "due_within_30_days": 2
+    },
+    "total_equipment_value": 164450.00,
+    "average_equipment_age_months": 8.4,
+    "utilization_metrics": {
+      "high_usage": 3,
+      "medium_usage": 2,
+      "low_usage": 0
+    }
+  },
+  "alerts_and_notifications": [
+    {
+      "alert_id": "ALERT_2024_001",
+      "equipment_id": "EQ_2024_002",
+      "priority": "medium",
+      "type": "reagent_reorder",
+      "message": "CBC Reagent Pack A running low - 12 days remaining",
+      "created_date": "2024-03-20",
+      "status": "active"
+    },
+    {
+      "alert_id": "ALERT_2024_002",
+      "equipment_id": "EQ_2024_003",
+      "priority": "low",
+      "type": "filter_replacement",
+      "message": "Prefilter replacement due in 10 days",
+      "created_date": "2024-03-22",
+      "status": "active"
+    }
+  ]
+}
